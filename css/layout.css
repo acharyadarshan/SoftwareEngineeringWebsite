@@ -134,7 +134,7 @@ span.color{
 /* Blogs section */
 
 .portfolio{
-    background-color: white;
+    /* background-color: white; */
     max-width: 768px;
     margin:0 auto;
     margin-top: 70px;
@@ -203,7 +203,7 @@ span.color{
     left: 5em;
     margin-right: 20px;
     justify-content: space-evenly;
-    background-color: #770f0f;
+    /* background-color: #770f0f; */
     width: 50%;
 }
 .styleButton{
